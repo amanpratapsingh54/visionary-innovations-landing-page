@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.sites-runtime/
+screenshots/*.png
+.env
+.env.*
+!.env.example
